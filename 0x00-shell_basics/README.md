@@ -1,1 +1,1 @@
-link symbols
+copy
