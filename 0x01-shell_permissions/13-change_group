@@ -1,2 +1,5 @@
 #!/bin/bash
 chgrp school hello
+[master 9c74dc7] change
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x01-shell_permissions/13-change_group
